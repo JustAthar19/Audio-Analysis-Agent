@@ -9,6 +9,5 @@ wheels/
 .env
 
 data/
-
 batch_results/
 results/
