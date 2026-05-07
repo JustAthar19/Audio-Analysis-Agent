@@ -8,7 +8,7 @@ wheels/
 .venv/
 .env
 
-# data/
+data/
 
 batch_results/
 results/
